@@ -42,3 +42,8 @@ Use meaningful commits for actual changes. Do not invent commits or claim a pipe
 
 ## 6. Jenkins
 The `Jenkinsfile` contains the five required stages. It assumes a Jenkins agent where Python and Docker CLI are available and Docker is accessible. Configure the Jenkins job to use your GitHub repository and add student details as environment variables or update the Jenkinsfile placeholders.
+
+## Student details
+- Name: Amina Sheraly
+- Group: IT2-2308
+- Student ID: 41544
