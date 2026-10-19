@@ -1,0 +1,10 @@
+services:
+  student-app:
+    build: .
+    image: your-surname-your-name-devops
+    container_name: student-devops-app
+    environment:
+      STUDENT_NAME: ${STUDENT_NAME:-YourName}
+      STUDENT_SURNAME: ${STUDENT_SURNAME:-YourSurname}
+      STUDENT_GROUP: ${STUDENT_GROUP:-YourGroup}
+      STUDENT_ID: ${STUDENT_ID:-YourID}

@@ -1,0 +1,7 @@
+Project: DevOps Laboratory
+Purpose: Demonstrate a small Linux/Git/Docker/Jenkins workflow.
+Before submission:
+1. Replace all student placeholders.
+2. Rename the Docker image and Jenkins job using the assignment's required naming format.
+3. Run the commands and capture genuine screenshots.
+4. Do not report Jenkins SUCCESS unless the actual run succeeds.
