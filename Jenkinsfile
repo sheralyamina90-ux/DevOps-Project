@@ -2,11 +2,11 @@ pipeline {
     agent any
 
     environment {
-        STUDENT_NAME = 'YourName'
-        STUDENT_SURNAME = 'YourSurname'
-        STUDENT_GROUP = 'YourGroup'
-        STUDENT_ID = 'YourID'
-        IMAGE_NAME = 'your-surname-your-name-devops'
+        STUDENT_NAME = 'Amina'
+        STUDENT_SURNAME = 'Sheraly'
+        STUDENT_GROUP = 'IT2-2308'
+        STUDENT_ID = '41544'
+        IMAGE_NAME = 'amina-sheraly-devops'
     }
 
     stages {
